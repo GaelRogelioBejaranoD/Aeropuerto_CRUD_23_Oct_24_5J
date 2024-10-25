@@ -2,5 +2,6 @@
 Gpo 5J proyect aeropuerto tabla aviones
 
 ##Fotografia prueba:
-![image](https://github.com/user-attachments/assets/f627d06a-76ee-4c60-916e-ff01fdfb7887)
+![image](https://github.com/user-attachments/assets/551b0aa6-d898-43e1-a99d-61390cff8970)
+
 
